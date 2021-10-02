@@ -1,6 +1,6 @@
-- 👋 Eai, sou @RamonMdrs, um curioso estudante de Front-end. 
-- 👀 Atualmente estudo pela udemy e curso Análise e desenvolvimento de sistemas.
-- 🌱 Estou estudando Booststrap, JS ...
+# Eai, sou _@RamonMdrs_, um curioso estudante de Front-end. 
+## - 👀 Atualmente estudo pela udemy e curso Análise e desenvolvimento de sistemas.
+## - 🌱 Estou estudando Bootstrap, JS ...
 
 
 <!---
