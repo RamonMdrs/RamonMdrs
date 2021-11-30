@@ -37,6 +37,10 @@
 <img aling="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonMdrs&layout=compact&langs_count=7&theme=dracula">
 
 ---  
+
+** Design **
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamonMdrs&label=Profile%20views&color=0e75b6&style=flat" alt="Perfil Ramon" /> </p>
   
