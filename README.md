@@ -43,6 +43,10 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
+---
+
+[![Steam](https://img.shields.io/badge/Ramon-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ramonmdrs123/)
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamonMdrs&label=Profile%20views&color=0e75b6&style=flat" alt="Perfil Ramon" /> </p>
   
 <!---
