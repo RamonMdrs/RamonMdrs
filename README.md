@@ -1,8 +1,36 @@
-# Eai, sou _@RamonMdrs_, um curioso estudante de Front-end. 
-## - 👀 Atualmente estudo pela udemy e curso Análise e desenvolvimento de sistemas.
-## - 🌱 Estou estudando Bootstrap, JS ...
+<h1 align="center">Hi 👋, I'm Ramon</h1>
+
+<h3 align="left">     A passionate Full Stack developer from Brazil</h3>
+
+<img aling="right" width="420em" src="https://github-readme-stats.vercel.app/api?username=RamonMdrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+- 🔭 I’m currently working on **Upload and Improve my projects.**
+
+- 🌱 I’m currently learning/Improving **JS, Node, and Jquery. **
+
+****
+
+<h3> 📫 How to reach me: <h3>
+
+[![Gmail Badge](https://img.shields.io/badge/-ramonmdrs2@gmail.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ramonmdrs2@gmail.com)](mailto:ramonmdrs2@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/-RamonMdrs-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RamonMdrs/)](https://www.linkedin.com/in/RamonMdrs)
+[![GitHub]( https://img.shields.io/github/followers/RamonMdrs?label=follow&style=social)](https://github.com/RamonMdrs)
+
+---
+<h3> :rocket: &nbsp;My Skills:</h3>
+
+**Languages and Tools**
 
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+  
+**Frameworks, Platforms and Libraries**
+  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 <!---
 RamonMdrs/RamonMdrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
