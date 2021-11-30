@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
 
-- 🌱 I’m currently learning/Improving **JS, Node, and Jquery. **
+- 🌱 I’m currently learning/Improving JS, Node, and Jquery.
 
 ****
 
