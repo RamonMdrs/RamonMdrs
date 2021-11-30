@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
 
-- 🌱 I’m currently learning/Improving JS, Node, and Jquery.
+- 🌱 I’m currently learning/Improving **JS, Node, and Jquery.**
 
 ****
 
@@ -38,7 +38,7 @@
 
 ---  
 
-** Design **
+**Design**
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
