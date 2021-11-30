@@ -36,6 +36,11 @@
 
 ----
 
+**Education**
+
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)  
+
 <img aling="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonMdrs&layout=compact&langs_count=7&theme=dracula">
 
 ---  
