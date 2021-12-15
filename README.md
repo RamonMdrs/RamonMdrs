@@ -54,7 +54,10 @@
 [![Steam](https://img.shields.io/badge/Ramon-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ramonmdrs123/)
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RamonMdrs&label=Profile%20views&color=0e75b6&style=flat" alt="Perfil Ramon" /> </p>
-  
+ 
+ ---
+ <p align="center"> "Você não pode fazer o trabalho de <b>hoje</b> com os metodos de <b>ontem</b> se pretende estar no mercado <b>amanhã</b> "
+  <cite>-Jack Welck</cite></p>
 <!---
 RamonMdrs/RamonMdrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
