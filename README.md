@@ -12,7 +12,7 @@
 
 <h3> 📫 How to reach me: <h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-ramonmdrs2@gmail.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ramonmdrs.dev@gmail.com)](mailto:ramonmdrs.dev@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-ramonmdrs.dev@gmail.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ramonmdrs.dev@gmail.com)](mailto:ramonmdrs.dev@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-RamonMdrs-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RamonMdrs/)](https://www.linkedin.com/in/RamonMdrs)
 [![GitHub]( https://img.shields.io/github/followers/RamonMdrs?label=follow&style=social)](https://github.com/RamonMdrs)
 [![Discord](https://img.shields.io/badge/%3CS👽M%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UtZUxpJvsz)  
